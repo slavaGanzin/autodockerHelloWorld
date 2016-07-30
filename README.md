@@ -1,3 +1,3 @@
-[For testing autodocker|https://github.com/slavaGanzin/autodoker]
+For testing autodocker: https://github.com/slavaGanzin/autodocker
 
 
