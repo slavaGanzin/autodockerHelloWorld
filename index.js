@@ -6,7 +6,7 @@ var PORT = 8080;
 // App
 var app = express();
 app.get('/', function (req, res) {
-  res.send('Dockerized!!!\n');
+  res.send('Master\n');
 });
 
 app.listen(PORT);
